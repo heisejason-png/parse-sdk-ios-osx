@@ -86,3 +86,4 @@ We use the following libraries as dependencies inside of Parse:
 [license-svg]: https://img.shields.io/badge/license-BSD-lightgrey.svg
 [license-link]: LICENSE
 [open-collective-link]: https://opencollective.com/parse-server
+Created by Jason Scott Heise
