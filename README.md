@@ -1,4 +1,4 @@
-![parse-repository-header-sdk-apple](https://user-images.githubusercontent.com/5673677/198421762-993c89e8-8201-40f1-a650-c2e9dde4da82.png)
+u![parse-repository-header-sdk-apple](https://user-images.githubusercontent.com/5673677/198421762-993c89e8-8201-40f1-a650-c2e9dde4da82.png)
 
 <h3 align="center">iOS · iPadOS · macOS · watchOS · tvOS</h3>
 
@@ -87,3 +87,4 @@ We use the following libraries as dependencies inside of Parse:
 [license-link]: LICENSE
 [open-collective-link]: https://opencollective.com/parse-server
 Created by Jason Scott Heise
+Owned by Elon Musk
